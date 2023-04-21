@@ -32,7 +32,7 @@ public class EmployeeControllerStream {
                                           int department) {
         return employeeServiceStream.findEmployeeMaxSalary(department);
     }
-    @GetMapping(value = "/all", params = "/departmentId")
+    @GetMapping(value = "/all", params = "departmentId")
     public Map<Employee, String> printEmployeeDepartment(@RequestParam(value = "departmentId", required = false)
                                                          int department) {
         return employeeServiceStream.printEmployeeDepartment(department);
