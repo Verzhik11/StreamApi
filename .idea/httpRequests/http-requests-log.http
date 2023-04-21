@@ -1,0 +1,216 @@
+GET http://localhost:8080/departments/all?departmentId=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214605.200.json
+
+###
+
+GET http://localhost:8080/departments/all?departmentId=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214552.200.json
+
+###
+
+GET http://localhost:8080/departments/max-salary?departmentId=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214544.200.json
+
+###
+
+GET http://localhost:8080/departments/max-salary?departmentId=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214542.200.json
+
+###
+
+GET http://localhost:8080/departments/min-salary?departmentId=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214539.200.json
+
+###
+
+GET http://localhost:8080/departments/min-salary?departmentId=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214537.200.json
+
+###
+
+GET http://localhost:8080/departments/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214532.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alla Grinko&salary=65000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214524.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alina Kravcova&salary=35000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214522.200.json
+
+###
+
+GET http://localhost:8080/add?name=Nikita Mitin&salary=55000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214520.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alex Azimov&salary=25000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214519.200.json
+
+###
+
+GET http://localhost:8080/add?name=Ivan Maximov&salary=33330&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214513.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alina Kravcova&salary=35000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214454.200.json
+
+###
+
+GET http://localhost:8080/add?name=Nikita Mitin&salary=55000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214450.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alex Azimov&salary=25000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214449.200.json
+
+###
+
+GET http://localhost:8080/add?name=Ivan Maximov&salary=33330&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214447.200.json
+
+###
+
+GET http://localhost:8080/departments/all?departmentId=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214134.200.json
+
+###
+
+GET http://localhost:8080/departments/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214124.500.json
+
+###
+
+GET http://localhost:8080/add?name=Svetlana Antipova&salary=15000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214121.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alla Grinko&salary=65000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214119.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alina Kravcova&salary=35000&department=5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214118.200.json
+
+###
+
+GET http://localhost:8080/add?name=Nikita Mitin&salary=55000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214116.200.json
+
+###
+
+GET http://localhost:8080/add?name=Alex Azimov&salary=25000&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214115.200.json
+
+###
+
+GET http://localhost:8080/add?name=Ivan Maximov&salary=33330&department=2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-04-21T214111.200.json
+
+###
+
